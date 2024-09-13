@@ -1,40 +1,87 @@
-//birinchi vazifa
+let one;
 
-numberSecond = 3;
-numberFirst = 2;
+one = 3 + 2;
 
-console.log(numberSecond + numberFirst);
+console.log(one);
 
-// second homework
+let two;
 
-number3 = 4;
-number4 = 2;
+two = 3 + true;
 
-console.log(number3 - number4);
+console.log(two);
 
-//third homework
+let thire;
 
-number5 = 4;
-number6 = 2;
+thire = 3 + undefined;
 
-console.log(number5 - number6);
+console.log(thire);
 
-//four homework
+let four;
 
-number7 = 4;
-number8 = 2;
+four = 3 + null;
 
-console.log(number7 * number8);
+console.log(four);
 
-//five homework
+let five;
 
-number9 = 4;
-number10 = 2;
+five = 4 - 2;
 
-console.log(number9 / number10);
+console.log(five);
 
-//six homework
+let six;
 
-number1 = 3;
-number0 = console.log(number1);
-console.log(number0);
+six = 4 - 2;
+
+console.log(six);
+
+let seven;
+
+seven = 4 * 2;
+
+console.log(seven);
+
+let eight;
+
+eight = 4 / 2;
+
+console.log(eight);
+
+let nine;
+
+nine = 4 - "hello";
+
+console.log(nine);
+//
+let number;
+
+number = 4 + true;
+
+console.log(number);
+
+result = 4 + false;
+
+console.log(result);
+
+result = 4 + null;
+
+console.log(result);
+
+result = 4 + null;
+
+console.log(result);
+
+result = 4 + undefined;
+
+console.log(result);
+
+result = 4 + undefined;
+
+console.log(result);
+
+result = true + undefined;
+
+console.log(result);
+
+result = null + undefined;
+
+console.log(result);
